@@ -23,5 +23,9 @@ k8s-local-cluster-deploy/
 1. Make sure Docker is running on your computer.
 2. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/k8s-web-app.git
-   cd k8s-web-app
+   git clone https://github.com/Testimony211/k8s-local-cluster-deploy.git
+   cd k8s-local-cluster-deploy
+
+
+
+Fix git clone and cd commands
