@@ -1,0 +1,10 @@
+# Ignore Python bytecode or node_modules if applicable
+__pycache__/
+node_modules/
+
+# Ignore OS files
+.DS_Store
+
+# Ignore Docker/minikube junk
+*.log
+*.tmp
